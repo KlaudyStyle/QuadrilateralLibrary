@@ -1,0 +1,10 @@
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibraryConsole\bin\Debug\QuadrilateralLibraryConsole.exe.config
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibraryConsole\bin\Debug\QuadrilateralLibraryConsole.exe
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibraryConsole\bin\Debug\QuadrilateralLibraryConsole.pdb
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibraryConsole\bin\Debug\QuadrilateralLibrary.dll
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibraryConsole\bin\Debug\QuadrilateralLibrary.pdb
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibraryConsole\obj\Debug\QuadrilateralLibraryConsole.csproj.AssemblyReference.cache
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibraryConsole\obj\Debug\QuadrilateralLibraryConsole.csproj.CoreCompileInputs.cache
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibraryConsole\obj\Debug\QuadrilateralLibraryConsole.csproj.CopyComplete
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibraryConsole\obj\Debug\QuadrilateralLibraryConsole.exe
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibraryConsole\obj\Debug\QuadrilateralLibraryConsole.pdb

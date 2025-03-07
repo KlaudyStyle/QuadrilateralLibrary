@@ -1,0 +1,5 @@
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibrary\obj\Debug\QuadrilateralLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibrary\bin\Debug\QuadrilateralLibrary.dll
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibrary\bin\Debug\QuadrilateralLibrary.pdb
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibrary\obj\Debug\QuadrilateralLibrary.dll
+C:\Users\Klaudy\Desktop\пр44\QuadrilateralLibrary\obj\Debug\QuadrilateralLibrary.pdb
